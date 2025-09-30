@@ -88,9 +88,6 @@ Server runs at: http://localhost:4000
 2. Install dependencies:
 npm install
 
-3. Configure API URL (optional):
-VITE_API_BASE=http://localhost:4000
-
-4. Start the frontend:
+3. Start the frontend:
 npm run dev
 Frontend runs at: http://localhost:5173
