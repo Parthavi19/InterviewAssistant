@@ -1,4 +1,4 @@
-# Swipe AI-Powered Interview Assistant
+# AI-Powered Interview Assistant
 
 An AI-powered interview assistant for candidates and interviewers built with React, Node.js, and Google Gemini API.
 
