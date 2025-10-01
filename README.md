@@ -6,7 +6,7 @@ An AI-powered interview assistant for candidates and interviewers built with Rea
 
 ## Project Overview
 
-**Swipe** is a web application that helps simulate real-world technical interviews for full-stack roles (React/Node). The app provides:
+It is a web application that helps simulate real-world technical interviews for full-stack roles (React/Node). The app provides:
 
 ### Interviewee Tab
 - Upload resume (PDF/DOCX)
